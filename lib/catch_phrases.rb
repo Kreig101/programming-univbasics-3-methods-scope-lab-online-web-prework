@@ -12,6 +12,6 @@ def link
   puts phrase = "It's Dangerous To Go Alone! Take This." 
 end
 
-def aany_phrase(phrase)`
+def aany_phrase(phrase)
   puts phrase = "Do A Barrel Roll!"
 end 
